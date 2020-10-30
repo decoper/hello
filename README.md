@@ -1,2 +1,3 @@
-# hello
-Hello World
+# Hello World
+
+Repo untuk belajar Git dasar
