@@ -2,5 +2,5 @@
     $a = 20;
     $b = 44;
     $h = $a + $b ;
-    echo "hasil".$s;
+    echo "hasil".$h;
 ?>
